@@ -35,13 +35,8 @@ I'm currently focused on improving my frontend development skills through contin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=rifatul-islam-rifat&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rifatul-islam-rifat&theme=dark)](https://git.io/streak-stats)
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=rifatul-islam-rifat&layout=compact&theme=dark)
-
-
 
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
